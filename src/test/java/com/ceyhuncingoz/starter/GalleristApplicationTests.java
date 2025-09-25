@@ -1,4 +1,4 @@
-package com.ceyhuncingoz.gallerist;
+package com.ceyhuncingoz.starter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
